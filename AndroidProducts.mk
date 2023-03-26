@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_barbet.mk
+    $(LOCAL_DIR)/aosp_barbet.mk
 
 COMMON_LUNCH_CHOICES := \
     aosp_barbet-user \
